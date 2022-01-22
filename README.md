@@ -12,7 +12,7 @@ YOLO is a popular algorithm because it achieves high accuracy while also being a
 
 ![Encoding architecture](nb_images/architecture.png)
 
-## Car detection
+## Object detection
 
 The video below shows the bounding boxes of the objects detected from the pictures shown above by the YOLO model.
 
