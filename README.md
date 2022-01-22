@@ -13,4 +13,4 @@ We have 120 images collected by a camera mounted to the hood (meaning the front)
 ## YOLO encoding architecture
 YOLO is a popular algorithm because it achieves high accuracy while also being able to run in real time. This algorithm "only looks once" at the image in the sense that it requires only one forward propagation pass through the network to make predictions. After non-max suppression, it  outputs recognized objects together with the bounding boxes. The detailed architecture for encoding the input image and the detection results are as shown below:
 
-![Encoding architecture](nb_images/archtecture.png)
+![Encoding architecture](nb_images/architecture.png)
