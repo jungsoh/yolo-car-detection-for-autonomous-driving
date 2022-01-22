@@ -14,6 +14,6 @@ YOLO is a popular algorithm because it achieves high accuracy while also being a
 
 ## Object detection
 
-The video below shows the bounding boxes of the objects detected from the pictures shown above by the YOLO model.
+The video below shows the bounding boxes of the objects detected from the pictures shown above by the YOLO model. The boxes are labeled with the class name and the probability (i.e. confidence) of the detected object.
 
 ![road video](nb_images/pred_video.gif)
